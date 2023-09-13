@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Service-Mentorship"
-permalink: /service_mentorship/
+permalink: /service/
 author_profile: true
 ---
 
