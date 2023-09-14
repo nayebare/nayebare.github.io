@@ -246,7 +246,7 @@ defaults:
   # _service_mentorship
   - scope:
       path: ""
-      type: _service
+      type: service
     values:
       layout: single
       author_profile: true
